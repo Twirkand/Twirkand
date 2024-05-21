@@ -12,7 +12,8 @@
 
 ## Conocimientos
 
-![<img src = "https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white"/>](https://www.microsoft.com/es-es/windows)
+![  <a href="https://www.microsoft.com/es-es/windows">
+  <img src = "https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white"/>]
 ![<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>](https://ubuntu.com/)
 ![<img src = "https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white"/>](https://linuxmint.com)
 ![<img src = "https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>](https://developer.mozilla.org/es/docs/Web/HTML)

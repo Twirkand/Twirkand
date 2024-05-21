@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Bienvenid@ a <a href="https://github.com/Twirkand" text-decoration-line: none>Twirkand's</a> GitHub</h1>
+<h1 align="center">Bienvenid@ a <a href="https://github.com/Twirkand">Twirkand's</a> GitHub</h1>
 </div>
 <img src="x">
 
@@ -12,19 +12,19 @@
 
 ## Conocimientos
 
-<a href="https://www.microsoft.com/es-es/windows" text-decoration-line: none>
+<a href="https://www.microsoft.com/es-es/windows">
   <img src = "https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white"/>
-  
-<a href="https://ubuntu.com/" text-decoration-line: none>
+&emsp;
+<a href="https://ubuntu.com/">
   <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  
-<a href="https://linuxmint.com" text-decoration-line: none>
+&emsp;
+<a href="https://linuxmint.com">
   <img src = "https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white"/>
-  
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" text-decoration-line: none>
+&emsp;
+<a href="https://developer.mozilla.org/es/docs/Web/HTML">
   <img src = "https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>
-  
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" text-decoration-line: none>
+&emsp;
+<a href="https://developer.mozilla.org/es/docs/Web/CSS">
   <img src = "https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/>
   
 
@@ -34,34 +34,34 @@
 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
   <img src = "https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  
+&emsp;  
 <a href="https://www.java.com/">
   <img src = "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/>
-  
+&emsp;  
 <a href="https://www.python.org">
   <img src = "https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>
-  
+&emsp;  
 <a href="https://isocpp.org">
   <img src = "https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"/>
-  
+&emsp;  
 
 ## Contacto
 
 <a href="https://www.youtube.com/@Twirkand">
   <img src = "https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
-  
+&emsp;  
 <a href="x">
   <img src = "https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/>
-  
+&emsp;  
 <a href="https://github.com/Twirkand">
   <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>
-  
+&emsp;
 <a href="https://www.instagram.com/1_am_nauchi/">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  
+&emsp;  
 <a href="https://x.com/Twirkand">
   <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
-  
+&emsp;  
 <a href="https://t.me/Twirkand">
   <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
   

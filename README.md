@@ -12,31 +12,28 @@
 
 ## Conocimientos
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![<img src = "https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white"/>](https://www.microsoft.com/es-es/windows)
+![<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>](https://ubuntu.com/)
+![<img src = "https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white"/>](https://linuxmint.com)
+![<img src = "https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>](https://developer.mozilla.org/es/docs/Web/HTML)
+![<img src = "https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/>](https://developer.mozilla.org/es/docs/Web/CSS)
 
 <br>
 
 ## Aprendiendo
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
+![<img src = "https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>](https://developer.mozilla.org/es/docs/Web/JavaScript)
+![<img src = "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/>](https://www.java.com/)
+![<img src = "https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>](https://www.python.org)
+![<img src = "https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"/>](https://isocpp.org)
 
 ## Contacto
 
-![<img src = "https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>] (https://www.youtube.com/c/KanekiGhostYT)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white) 
+![<img src = "https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/KanekiGhostYT)
+![<img src = "https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/>]
+![<img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/>](https://github.com/Twirkand)
+![<img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>](https://www.instagram.com/1_am_nauchi/)
+![<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>](https://x.com/Twirkand)
+![<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>](https://t.me/Twirkand)
+![<img src = "https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>](ari.09.tt@gmail.com)
+![<img src = "https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white"/>](https://steamcommunity.com/id/Twirkand)

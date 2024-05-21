@@ -15,16 +15,16 @@
 <a href="https://www.microsoft.com/es-es/windows" text-decoration-line: none>
   <img src = "https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white"/>
   
-<a href="https://ubuntu.com/">
+<a href="https://ubuntu.com/" text-decoration-line: none>
   <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
   
-<a href="https://linuxmint.com">
+<a href="https://linuxmint.com" text-decoration-line: none>
   <img src = "https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white"/>
   
-<a href="https://developer.mozilla.org/es/docs/Web/HTML">
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" text-decoration-line: none>
   <img src = "https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white"/>
   
-<a href="https://developer.mozilla.org/es/docs/Web/CSS">
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" text-decoration-line: none>
   <img src = "https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/>
   
 

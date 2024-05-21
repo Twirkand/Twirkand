@@ -64,9 +64,9 @@
 &emsp;  
 <a href="https://t.me/Twirkand">
   <img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
-  
+&emsp;  
 <a href="ari.09.tt@gmail.com">
   <img src = "https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  
+&emsp;  
 <a href="https://steamcommunity.com/id/Twirkand">
   <img src = "https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white"/>

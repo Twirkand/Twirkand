@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Bienvenid@ a <a href="https://github.com/Twirkand">Twirkand's</a> GitHub</h1>
+<h1 align="center">Bienvenid@ a <a href="https://github.com/Twirkand" text-decoration-line: none>Twirkand's</a> GitHub</h1>
 </div>
 <img src="x">
 
@@ -12,7 +12,7 @@
 
 ## Conocimientos
 
-<a href="https://www.microsoft.com/es-es/windows">
+<a href="https://www.microsoft.com/es-es/windows" text-decoration-line: none>
   <img src = "https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white"/>
   
 <a href="https://ubuntu.com/">

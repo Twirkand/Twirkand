@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Bienvenid@ a <a href="https://github.com/Twirkand">Twirkand's</a> GitHub</h1>
 </div>
-<img src="https://github.com/Twirkand/Twirkand/blob/23260727a1e5d53dbce28fd8d971c716a1403960/IMG/Cat.gif"/>
+<img src="https://raw.githubusercontent.com/Twirkand/Twirkand/main/IMG/Cat.gif"/>
 
 ## Sobre mi
 

@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Bienvenid@ a <a href="https://github.com/Twirkand">Twirkand's</a> GitHub</h1>
 </div>
-[Imgur](https://imgur.com/ThY8uup)
+<blockquote class="imgur-embed-pub" lang="en" data-id="ThY8uup"><a href="https://imgur.com/ThY8uup">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Sobre mi
 

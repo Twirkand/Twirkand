@@ -45,7 +45,7 @@
   <img src = "https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 &emsp;  
 
-## Contacto
+## Redes
 
 <a href="https://www.youtube.com/@Twirkand">
   <img src = "https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>

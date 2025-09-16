@@ -32,9 +32,10 @@
 
 ## Aprendiendo
 
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+<!-- <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
   <img src = "https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/></a>
-&emsp;  
+ &emsp;  
+-->
 <a href="https://www.java.com/">
   <img src = "https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java"/></a>
 &emsp;  
@@ -47,16 +48,17 @@
 
 ## Redes
 
-<a href="https://www.youtube.com/@Twirkand">
+<!-- <a href="https://www.youtube.com/@Twirkand">
   <img src = "https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
 &emsp;  
 <a href="x">
   <img src = "https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/></a>
-&emsp;  
+&emsp;
+-->
 <a href="https://github.com/Twirkand">
   <img src = "https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
 &emsp;
-<a href="https://www.instagram.com/1_am_nauchi/">
+<a href="https://www.instagram.com/twirkand/">
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 &emsp;  
 <a href="https://x.com/Twirkand">

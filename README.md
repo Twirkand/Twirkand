@@ -6,9 +6,8 @@
 
 ## Sobre mi
 
-- 💾 1º Administración de sistemas informáticos en red 💾
-- 🐖 Dibujante Nivel -2 pero se intenta 🐖         
-- 📜 WoW player📜
+- 💾 Estudiante de DAM 💾        
+- 📜 Estudiando DAM📜
 <br>
 
 ## Conocimientos

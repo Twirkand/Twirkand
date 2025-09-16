@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=twirkand&color=ff69b4)
 <div align="center">
 <h1 align="center">Bienvenid@ a <a href="https://github.com/Twirkand">Twirkand's</a> GitHub</h1>
 </div>
@@ -5,7 +6,6 @@
 
 
 ## Sobre mi
-
 - 💾 Estudiante de DAM 💾        
 - 📜 ASIR 📜
 <br>

@@ -7,7 +7,7 @@
 ## Sobre mi
 
 - 💾 Estudiante de DAM 💾        
-- 📜 Estudiando DAM📜
+- 📜 ASIR 📜
 <br>
 
 ## Conocimientos

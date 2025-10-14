@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=twirkand&color=ff69b4)
+>![](https://komarev.com/ghpvc/?username=twirkand&color=ff69b4)
+>![](./IMG/Catt.gif)
 <div align="center">
 <h1 align="center">Bienvenid@ a <a href="https://github.com/Twirkand">Twirkand's</a> GitHub</h1>
 </div>

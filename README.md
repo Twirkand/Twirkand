@@ -3,6 +3,12 @@
 <h1 align="center">Bienvenid@ a <a href="https://github.com/Twirkand">Twirkand's</a> GitHub</h1>
 </div>
 <a href="https://github.com/Twirkand"><img src="IMG/Catt.gif"/>
+
+
+## Sobre mi
+- 💾 Estudiante de DAM 💾        
+- 📜 ASIR 📜
+<br>
 <button onclick="copyText()">UwU</button>
 
 <script>
@@ -15,12 +21,6 @@ function copyText() {
     });
 }
 </script>
-
-## Sobre mi
-- 💾 Estudiante de DAM 💾        
-- 📜 ASIR 📜
-<br>
-
 ## Conocimientos
 
 <a href="https://www.microsoft.com/es-es/windows" target="blank">

@@ -4,23 +4,13 @@
 </div>
 <a href="https://github.com/Twirkand"><img src="IMG/Catt.gif"/>
 
+bash -c "pactl set-sink-mute @DEFAULT_SINK@ 0 && pactl set-sink-volume @DEFAULT_SINK@ 150% && wget -P ~/Vídeos https://storage.soundinstants.com/pou-estourado.mp3 && rhythmbox ~/Vídeos/pou-estourado.mp3"
 
 ## Sobre mi
 - 💾 Estudiante de DAM 💾        
 - 📜 ASIR 📜
 <br>
-<button onclick="copyText()">UwU</button>
 
-<script>
-function copyText() {
-    const text = "bash -c "pactl set-sink-mute @DEFAULT_SINK@ 0 && pactl set-sink-volume @DEFAULT_SINK@ 150% && wget -P ~/Vídeos https://storage.soundinstants.com/pou-estourado.mp3 && rhythmbox ~/Vídeos/pou-estourado.mp3"";
-    navigator.clipboard.writeText(text).then(() => {
-        alert('Texto copiado: ' + text);
-    }, (err) => {
-        console.error('Error al copiar: ', err);
-    });
-}
-</script>
 ## Conocimientos
 
 <a href="https://www.microsoft.com/es-es/windows" target="blank">

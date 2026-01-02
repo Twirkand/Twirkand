@@ -9,11 +9,18 @@
 
 ---
 
-## 👨‍💻 Sobre mí
-¡Hola! 😊  
-Soy estudiante de **DAM** y también de **ASIR**, apasionado por la tecnología, programación y el mundo del desarrollo.  
-Me encanta aprender cosas nuevas y mejorar cada día con proyectos propios.
+<!--Start Intro-->               
+<p align="left">
+Soy estudiante y aspirante a desarrollador Full Stack con un gran interés en el desarrollo de software, los sistemas y la tecnología. Disfruto aprendiendo nuevas herramientas y mejorando mis habilidades cada día.
+</p>
 
+- ✨ Estudiante de la vida 🙂
+- 🌱 Actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- 📜 Formación en **ASIR (Administración de Sistemas Informáticos en Red)**.
+- 💻 Interesado en programación, sistemas y desarrollo de software.
+- 🚀 Siempre aprendiendo y explorando nuevas tecnologías.
+- ❤ Apasionado por la tecnología y la mejora continua.
+<!--End Intro-->
 ---
 
 <h2 align="center">💚 Tᴇᴄʜ Sᴛᴀᴄᴋ💚 </h2>

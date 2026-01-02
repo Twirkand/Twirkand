@@ -1,7 +1,6 @@
 > ![](https://komarev.com/ghpvc/?username=Twirkand&color=EA9FE0)
 
 <div align="center">
-  <p>Hola, soy <strong>Twirkand</strong></p>
   <!-- GIF personal -->
   <img src="IMG/banner.png" alt="GIF de bienvenida"/>
 </div>

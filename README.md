@@ -39,11 +39,12 @@ Soy estudiante y aspirante a desarrollador Full Stack con un gran interés en el
 
 ---
 
-## 📖 Actualmente aprendiendo
+<h2 align="center">💚 Lᴇᴀʀɴɪɴɢ  💚 </h2>
+<div align="center">
 - Java ☕  
 - Python 🐍  
 - C++ 💠
-
+</div>
 ---
 
 <h2 align="center">💚 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 💚 </h2>

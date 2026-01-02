@@ -1,10 +1,9 @@
-> ![](https://komarev.com/ghpvc/?username=Twirkand&color=ff69b4)
+> ![](https://komarev.com/ghpvc/?username=Twirkand&color=EA9FE0)
 
 <div align="center">
-  <h1>👋 Bienvenid@ a mi GitHub</h1>
   <p>Hola, soy <strong>Twirkand</strong></p>
   <!-- GIF personal -->
-  <img src="IMG/Catt.gif" alt="GIF de bienvenida"/>
+  <img src="IMG/banner.png" alt="GIF de bienvenida"/>
 </div>
 
 ---
@@ -23,7 +22,7 @@ Soy estudiante y aspirante a desarrollador Full Stack con un gran interés en el
 <!--End Intro-->
 ---
 
-<h2 align="center">💚 Tᴇᴄʜ Sᴛᴀᴄᴋ💚 </h2>
+<h2 align="center">💚 Tᴇᴄʜ Sᴛᴀᴄᴋ 💚 </h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript" />
@@ -72,6 +71,4 @@ Soy estudiante y aspirante a desarrollador Full Stack con un gran interés en el
 </div>
 
 ---
-
-¡Gracias por visitar mi perfil! 🌟  
-Siempre aprendiendo 🚀  
+ 

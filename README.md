@@ -23,7 +23,7 @@ Soy estudiante y aspirante a desarrollador Full Stack con un gran interés en el
 
 <h2 align="center">💚 Tᴇᴄʜ Sᴛᴀᴄᴋ 💚 </h2>
 <div align="center">
-<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php&logoColor=777BB4" />
   <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=FFA518" />
@@ -41,10 +41,11 @@ Soy estudiante y aspirante a desarrollador Full Stack con un gran interés en el
 
 <h2 align="center">💚 Lᴇᴀʀɴɪɴɢ  💚 </h2>
 <div align="center">
-- Java ☕  
-- Python 🐍  
-- C++ 💠
+<img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java&logoColor=FFA518" />  
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" />  
+<img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript" />
 </div>
+
 ---
 
 <h2 align="center">💚 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 💚 </h2>

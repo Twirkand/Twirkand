@@ -29,8 +29,14 @@
 </div>
 
 ---
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,mysql,docker,git,github,java,maven,linux,debian,mint,ubuntu,windows,md&perline=8" style="height:25vh" />
+  </a>
+</p>
+---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Projects</h2>
 
 <div align="center">
 

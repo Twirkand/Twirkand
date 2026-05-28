@@ -70,17 +70,6 @@
 
 </div>
 
----
-
-<h2 align="center">💡 Top Languages</h2>
-
-<div align="center">
-
-<p align="center"> 
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Twirkand&layout=donut&theme=transparent&hide_border=true&title_color=FFB6C1&text_color=c9d1d9"/> 
-</p>
-
-</div>
 
 ---
 

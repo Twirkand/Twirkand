@@ -1,9 +1,9 @@
-<div align="center">
 
+<div>
 <img src="https://img.shields.io/github/followers/Twirkand?style=for-the-badge&color=FFB6C1&labelColor=000000" alt="Followers"/>
 <img src="https://komarev.com/ghpvc/?username=Twirkand&style=flat-square&color=FFB6C1" alt="Profile views"/>
+</div>
 
-<br/><br/>
 
 <img src="./IMG/banner.png">
 

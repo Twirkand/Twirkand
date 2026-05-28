@@ -9,41 +9,8 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=FFB6C1&center=true&vCenter=true&width=850&lines=Listen%20to%20my%20story.%20This%20may%20be%20our%20last%20chance.;Debuggeando+la+vida%2C+una+l%C3%ADnea+a+la+vez;Programando+con+amor+y+paciencia" />
-</a>
-
-</div>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<p align="center"> 
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Twirkand&show_icons=true&theme=transparent&hide_border=true&title_color=FFB6C1&text_color=c9d1d9&icon_color=FF69B4"/> 
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Twirkand&layout=compact&theme=transparent&hide_border=true&title_color=FFB6C1&text_color=c9d1d9"/> 
-</p>
-
-</div>
-
----
 <p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,mysql,docker,git,github,java,maven,linux,debian,mint,ubuntu,windows,md&perline=8" style="height:25vh" />
-  </a>
-</p>
----
-
-<h2 align="center">🚀 Projects</h2>
-
-<div align="center">
-
-<p>
-<b><a href="https://github.com/Twirkand/Hunter">Hunter</a></b> — 🩷 Bestiario Interactivo 🩷  
-<br/>
-<b><a href="https://github.com/Twirkand/CentroPlus-Connect">CentroPlus-Connect</a></b> — Aplicación para la gestión de un centro académico y deportivo.
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=FFB6C1&center=true&vCenter=true&width=850&lines=Listen%20to%20my%20story.%20This%20may%20be%20our%20last%20chance." />
 </p>
 
 </div>
@@ -77,7 +44,46 @@
 </div>
 
 
+
+
 ---
+
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=vscode,js,html,css,mysql,docker,git,github,java,maven,linux,debian,mint,ubuntu,windows,md&perline=8" style="height:25vh" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🚀 Projects</h2>
+
+<div align="center">
+
+<p>
+<b><a href="https://github.com/Twirkand/Hunter">Hunter</a></b> — 🩷 Bestiario Interactivo 🩷  
+<br/>
+<b><a href="https://github.com/Twirkand/CentroPlus-Connect">CentroPlus-Connect</a></b> — Aplicación para la gestión de un centro académico y deportivo.
+<br/>
+</p>
+
+</div>
+
+---
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<p align="center"> 
+  <img height="160" src="https://github-readmeapp.vercel.app/api?username=Twirkand&show_icons=true&theme=transparent&hide_border=true&title_color=FFB6C1&text_color=c9d1d9&icon_color=FF69B4"/> 
+  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=Twirkand&layout=compact&theme=transparent&hide_border=true&title_color=FFB6C1&text_color=c9d1d9"/> 
+</p>
+
+</div>
+
+
 
 
 <div align="center">
